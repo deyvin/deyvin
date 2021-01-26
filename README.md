@@ -9,8 +9,6 @@
 
 - 📝 I regularly write articles on [https://medium.com/deyvin](https://medium.com/deyvin)
 
-- 💬 Sobre **Formado em Bsc Sistemas de informação em 2008, atuo com desenvolvimento de software a mais de 15 anos**
-
 - 📫 como falar comigo **deyvin@gmail.com**
 
 
