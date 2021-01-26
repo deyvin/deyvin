@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deyvid</h1>
-<h3 align="center">💉 Viciado em entrega de produtos 🚀</h3>
+<h3 align="center">Agile, Startups, Programming</h3>
 
 - 🔭 I’m currently working on [FreebieApp](https://play.google.com/store/apps/details?id=br.com.freebie.app&hl=en_US&gl=US)
 
