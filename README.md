@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Deyvid</h1>
+<h1 align="center">Koé 👋, I'm Deyvid (vulgo @manodeyvin)</h1>
 
-- 👨‍💻 All of my projects are available at [https://deyv.in](https://deyv.in)
+- 📝 Posto vídeos aqui [https://youtube.com/@manodeyvin](https://youtube.com/@manodeyvin)
 
-- 📝 I regularly write articles on [https://medium.com/deyvin](https://medium.com/deyvin)
+- 📫 como falar comigo **deyvin@gmail.com** assuntos pessoais, vagas, etc, que não envolva o canal
 
-- 📫 como falar comigo **deyvin@gmail.com**
+- 📫 sobre assuntos do canal **comercial@chorume.dev**
