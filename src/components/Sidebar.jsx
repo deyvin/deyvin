@@ -44,24 +44,33 @@ export default function Sidebar() {
 
         {/* Avatar */}
         <img
-          src="/assets/images/avatar.png"
-          alt="Mano Deyvin"
+          src="/assets/images/profile.jpeg"
+          alt="Deyvid Nascimento"
           className="w-20 h-20 rounded-full object-cover ring-2 ring-white shadow-md"
         />
 
         {/* Name */}
         <div>
           <h1 className="font-display text-2xl font-bold tracking-tight leading-tight text-gray-900">
-            Mano Deyvin
+            Deyvid Nascimento
           </h1>
           <p className="text-sm text-gray-500 mt-0.5 font-medium">@deyvin</p>
         </div>
 
         {/* Bio */}
         <p className="text-sm text-gray-600 leading-relaxed">
-          Rei do chorume da bolha tech. 👑
+          Programo há mais de 20 anos, hoje faço SaaS sozinho em Rails.
           <br />
-          Construo coisas na internet e rio de coach no LinkedIn.
+          O cara por trás do{' '}
+          <a
+            href="https://www.youtube.com/@manodeyvin"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-gray-900 font-medium hover:underline"
+          >
+            @manodeyvin
+          </a>
+          .
         </p>
 
         {/* Social links */}
@@ -87,7 +96,7 @@ export default function Sidebar() {
 
         {/* Footer note */}
         <p className="text-xs text-gray-400 leading-relaxed">
-          Conteúdo sobre tecnologia, carreira e aleatoriedades da internet.
+          Projetos, produtos e links que valem seu tempo.
         </p>
       </div>
     </aside>

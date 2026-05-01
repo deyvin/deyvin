@@ -5,11 +5,12 @@ export default function ProductCard({
   category,
   icon,
   iconBg,
-  iconColor,
   description,
   url,
   status,
   statusColor,
+  metric,
+  displayValue,
   chartColor,
   data,
 }) {
@@ -41,8 +42,12 @@ export default function ProductCard({
       {/* Description */}
       <p className="text-xs text-gray-500 leading-relaxed mb-4">{description}</p>
 
-      {/* Chart */}
-      <div className="flex items-end justify-end">
+      {/* Metric + Chart */}
+      <div className="flex items-end justify-between">
+        <div>
+          <p className="font-display text-2xl font-bold text-gray-900 leading-none">{displayValue}</p>
+          <p className="text-[11px] text-gray-400 mt-1">{metric}</p>
+        </div>
         <Sparkline data={data} color={chartColor} />
       </div>
     </a>
